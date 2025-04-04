@@ -1,0 +1,8 @@
+{
+  "build": {
+    "scripts": {
+      "postinstall": "playwright install chromium"
+    }
+  }
+}
+
